@@ -1,2 +1,2 @@
-# vue-mstery
+# vue-mastery
 Vue Practice 
